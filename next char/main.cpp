@@ -8,10 +8,10 @@ char a;
 printf("upisi znak: ");
 cin>>a;
 
-int b;  //bira broj s kojim ce se "a" zbrojiti i oduzeti
+int b;  
 cout<<"upisi broj: ";
 printf("%c+/-",a);
-cin>>b;
+cin>>b;  //bira broj s kojim ce se "a" zbrojiti i oduzeti
 
 printf("\n");//prazna linija
 
