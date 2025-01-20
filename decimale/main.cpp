@@ -35,17 +35,5 @@ float z6=(z5-(int)z5)*10;
 cout<<(int)z6<<endl;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 return 0;
 }
