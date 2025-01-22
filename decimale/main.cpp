@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 float a;
-cout<<"upisi decimalni broj (max 7 znamenka): ";
+cout<<"upisi decimalni broj (cijeli dio<10, max 7 znamenka): ";
 cin>>a;
 
 float b=(int)a; //"b" je jednak cijelobrojnom dijelu "a"
